@@ -42,7 +42,7 @@ Note that the deadlines are 11.59 pm <a target="_blank" href="https://www.timean
 .news-table { font-size: .9em; table-layout: fixed;}
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
-| Abstract deadline | 20th December, 2023 --> extended to 5th January, 2024
+| Abstract deadline | <s>20th December, 2023</s>
 | <span style="color:red">Extended deadline</span> | <span style="color:red">5th January, 2024</span>
 | Notification | 31st January, 2024
 | Conference | 16th-17th July, 2024
