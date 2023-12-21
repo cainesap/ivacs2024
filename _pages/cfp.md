@@ -32,9 +32,9 @@ Strand 7 – Computational Linguistics and Corpora: The use of Corpora for Compu
 Full papers will involve a 20-minute presentation, plus 10 minutes for questions and discussion.
 
 Posters can present work in progress or summaries of completed studies, research projects or other innovations.
-Posters will be printed in portrait A0 size. 
+Posters should be printed in portrait A0 size. 
 
-Abstracts will be 300 words (not including reference list, if any).
+Abstracts should be a maximum of 300 words (not including reference list, if any).
 
 Note that the deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> ("anywhere on Earth"). So e.g. in the UK and Ireland (UTC-0) the deadline is 11.59am the morning after the stated date.
 
@@ -42,7 +42,8 @@ Note that the deadlines are 11.59 pm <a target="_blank" href="https://www.timean
 .news-table { font-size: .9em; table-layout: fixed;}
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
-| Abstract deadline | 20th December, 2023
+| Abstract deadline | 20th December, 2023 --> extended to 5th January, 2024
+| <span style="color:red">Extended deadline</span> | <span style="color:red">5th January, 2024</span>
 | Notification | 31st January, 2024
 | Conference | 16th-17th July, 2024
 
