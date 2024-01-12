@@ -29,7 +29,7 @@ Strand 7 – Computational Linguistics and Corpora: The use of Corpora for Compu
 
 ### Abstract Submission and Timeline
 
-Full papers will involve a 20-minute presentation, plus 10 minutes for questions and discussion.
+Full papers will involve a 15-minute presentation, plus 5 minutes for questions and discussion.
 
 Posters can present work in progress or summaries of completed studies, research projects or other innovations.
 Posters should be printed in portrait A0 size. 
