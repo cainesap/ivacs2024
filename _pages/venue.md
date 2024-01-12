@@ -7,4 +7,6 @@ permalink: /venue/
 # toc_icon: "cog"
 ---
 
-Coming soon
+Crausaz Wordsworth Building, Adams Road, Robinson College, Cambridge CB3 9AD
+
+More information coming soon!
