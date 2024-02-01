@@ -45,6 +45,7 @@ Note that the deadlines are 11.59 pm <a target="_blank" href="https://www.timean
 | Abstract deadline | <s>20th December, 2023</s>
 | <span style="color:red">Extended deadline</span> | <span style="color:red">5th January, 2024</span>
 | Notification | 31st January, 2024
+| Revised abstracts | 28th March, 2024
 | Conference | 16th-17th July, 2024
 
 {: .news-table}
