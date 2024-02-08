@@ -51,7 +51,7 @@ We would also like to gauge interest in **Cambridge tours** (punting or a walkin
 ## Presenter instructions
 
 If presenting a paper at IVACS 2024, you can update your abstract on [OpenReview](https://openreview.net/group?id=IVACS/2024/Conference/Authors).
-We encourage you to do so based on the reviews you received and any further work you have done.
+We encourage you to do so based on the reviews you received and any further refinements you need to make.
 You will be able to edit your abstracts until 8th July 2024, 23:59 Anywhere on Earth (UTC-12).
 
 **Talk slots** will involve a 15-minute presentation, plus 5 minutes for questions and discussion.
