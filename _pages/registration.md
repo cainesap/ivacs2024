@@ -18,12 +18,11 @@ Registration for IVACS 2024 is priced as follows:
 | <span style="color:red">Early-bird student</span> | 150.00 |
 | Student registration | 200.00 |
 
-The early-bird registration deadline is **Thursday 28th March 2024, 23:59 Anywhere on Earth (UTC-12)**.
+The early-bird registration deadline is _Thursday 28th March 2024, 23:59 Anywhere on Earth (UTC-12)_.
 
-_Please note_: at least one author for each paper must register for the conference by the early-bird deadline; papers without at least one registered author after this date may be withdrawn from the conference by the organisers.
+**Please note**: at least one author for each paper must register for the conference by the early-bird deadline; papers without at least one registered author after this date may be withdrawn from the conference by the organisers.
 
 If you have any questions please contact us. University of Cambridge staff/students feel free to get in touch about the options for payment.
-
 Otherwise please proceed to the [registration site](https://onlinesales.admin.cam.ac.uk/conferences-and-events/computer-science-and-technology/intervarietal-applied-corpus-studies-ivacs/the-11th-intervarietal-applied-corpus-studies-ivacs-biennial-conference-july-2024)
 
 We draw your attention to the [terms and conditions](https://onlinesales.admin.cam.ac.uk/help/terms-conditions) page which sets out the general policy allowing cancellation only for 14 days after purchase.
