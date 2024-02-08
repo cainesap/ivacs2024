@@ -1,15 +1,15 @@
 ---
-title: Venue
+title: Crausaz Wordsworth Building
 layout: single
 permalink: /venue/
-# toc: true
-# toc_sticky: true
-# toc_icon: "cog"
 header:
-  overlay_image: "/assets/images/newmuseums.jpg"
-  # caption: 'Photo of bicycle parked against a wall in Cambridge, U.K.'
+  overlay_image: "/assets/images/robinson_cwb_rhp.jpeg"
+  # caption: 'Photo of the Crausaz Wordsworth Building in Cambridge, U.K.'
+excerpt: "Robinson College, Cambridge, U.K."
 ---
 
-Crausaz Wordsworth Building, Adams Road, Robinson College, Cambridge CB3 9AD
+## Venue information
+
+IVACS 2024 will be held at the Crausaz Wordsworth Building, Adams Road, Robinson College, Cambridge CB3 9AD.
 
 More information coming soon!
