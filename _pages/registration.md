@@ -20,7 +20,7 @@ Registration for IVACS 2024 is priced as follows:
 
 The early-bird registration deadline is **Thursday 28th March 2024, 23:59 Anywhere on Earth (UTC-12)**.
 
-_Please note_: at least one author for each paper must register for the conference by the early-bird deadline; papers without at least one registered author after this date may be withdrawn from the conference.
+_Please note_: at least one author for each paper must register for the conference by the early-bird deadline; papers without at least one registered author after this date may be withdrawn from the conference by the organisers.
 
 If you have any questions please contact us. University of Cambridge staff/students feel free to get in touch about the options for payment.
 
