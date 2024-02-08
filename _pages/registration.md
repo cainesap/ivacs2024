@@ -26,6 +26,8 @@ If you have any questions please contact us. University of Cambridge staff/stude
 
 Otherwise please proceed to the [registration site](https://onlinesales.admin.cam.ac.uk/conferences-and-events/computer-science-and-technology/intervarietal-applied-corpus-studies-ivacs/the-11th-intervarietal-applied-corpus-studies-ivacs-biennial-conference-july-2024)
 
+We draw your attention to the [terms and conditions](https://onlinesales.admin.cam.ac.uk/help/terms-conditions) page which sets out the general policy allowing cancellation only for 14 days after purchase.
+
 
 ## Accommodation
 
