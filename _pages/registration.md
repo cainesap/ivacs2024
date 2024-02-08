@@ -18,7 +18,7 @@ Registration for IVACS 2024 is priced as follows:
 | <span style="color:red">Early-bird student</span> | 150.00 |
 | Student registration | 200.00 |
 
-The _early-bird registration deadline_ is Thursday 28th March 2024, 23:59 Anywhere on Earth (UTC-12).
+The early-bird registration deadline is <span style="color:red">Thursday 28th March 2024, 23:59 Anywhere on Earth (UTC-12)</span>.
 
 **Please note**: _at least one author for each paper must register for the conference by the early-bird deadline_; papers without at least one registered author after this date may be withdrawn from the conference by the organisers.
 
@@ -58,4 +58,4 @@ You will be able to edit your abstracts until 8th July 2024, 23:59 Anywhere on E
 We'll contact you nearer the time with a timeslot for your talk, and a link to a shared folder where we'll ask you to upload your presentation slides.
 
 **Poster presentations** should be in portrait orientation, size A1 or A0. 
-There are poster printing facilities in Cambridge: for instance the [Reprographics Centre](https://www.em.admin.cam.ac.uk/what-we-do/estate-operations/facilities-services/reprographics/about-us) in the city centre. If you are going to use this kind of option, we recommend contacting them and sending your file well ahead of the date. Please get in touch with us if you have any queries.
+There are poster printing facilities in Cambridge: for instance the [Reprographics Centre](https://www.em.admin.cam.ac.uk/what-we-do/estate-operations/facilities-services/reprographics/about-us) in the city centre. If you are going to use this kind of option, we recommend contacting them and sending your file well ahead of the date.
