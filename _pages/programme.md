@@ -13,7 +13,7 @@ sidebar:
 
 Provisional timings:
 
-* Tuesday 16 July 2024, 9am-6pm
+* Tuesday 16 July, 9am-6pm
 * Wednesday 17 July, 9am-5pm
 
 ## Day 1 schedule
