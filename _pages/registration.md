@@ -23,7 +23,8 @@ The early-bird registration deadline is <span style="color:red">Thursday 28th Ma
 **Please note**: _at least one author for each paper must register for the conference by the early-bird deadline_; papers without at least one registered author after this date may be withdrawn from the conference by the organisers.
 
 If you have any questions please contact us. University of Cambridge staff/students feel free to get in touch about the options for payment.
-Otherwise please proceed to the [registration site](https://onlinesales.admin.cam.ac.uk/conferences-and-events/computer-science-and-technology/intervarietal-applied-corpus-studies-ivacs/the-11th-intervarietal-applied-corpus-studies-ivacs-biennial-conference-july-2024)
+
+Please proceed to the [registration site](https://onlinesales.admin.cam.ac.uk/conferences-and-events/computer-science-and-technology/intervarietal-applied-corpus-studies-ivacs/the-11th-intervarietal-applied-corpus-studies-ivacs-biennial-conference-july-2024)
 
 We draw your attention to the [terms and conditions](https://onlinesales.admin.cam.ac.uk/help/terms-conditions) page which sets out the general policy allowing cancellation only for 14 days after purchase.
 
