@@ -1,11 +1,10 @@
 ---
-title: "The 11th Inter-Varietal Applied Corpus Studies (IVACS) Biennial Conference"
+title: "The 11th Inter-Varietal Applied Corpus Studies (IVACS) Biennial Conference<br>16-17th July 2024<br>University of Cambridge, U.K."
 layout: splash
 permalink: /
 header:
   overlay_image: "/assets/images/newmuseums.jpg"
   # caption: 'Photo of bicycle parked against a wall in Cambridge, U.K.'
-excerpt: "16-17th July 2024<br>University of Cambridge, U.K."
 ---
 
 ## Welcome!
