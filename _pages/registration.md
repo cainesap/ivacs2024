@@ -35,7 +35,7 @@ Rooms are available at Robinson College, Cambridge:
 
 * single ensuite rooms, 77.50 GBP per room per night (includes breakfast)
 * on Monday 15th, Tuesday 16th, Wednesday 17th July (check-out 9.30am)
-* a very small number of rooms have been reserved for us at the college and these will be assigned to delegates on a first come first served basis
+* a small number of rooms have been reserved for us at the college and these will be assigned to delegates on a first come first served basis
 
 ![Example room at Robinson College](/assets/images/robinson_b-and-b.jpeg)
 
