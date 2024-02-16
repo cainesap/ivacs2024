@@ -1,10 +1,11 @@
 ---
-title: "Crausaz Wordsworth Building<br>Robinson College, Cambridge, U.K."
+title: "Crausaz Wordsworth Building"
 layout: single
 permalink: /venue/
 header:
   overlay_image: "/assets/images/robinson_cwb_rhp.jpeg"
   # caption: 'Photo of the Crausaz Wordsworth Building in Cambridge, U.K.'
+excerpt: "Robinson College, Cambridge, U.K."
 ---
 
 ## Venue information
