@@ -39,7 +39,7 @@ Provisional timings:
 * **Authenticity and intimacy: A corpus study on live blogs about the US presidential debates** ; Valentin Werner, Hendrik Michael, Lea Bracke.
 * **Benefits and challenges of Pre-Sessional Programmes at an Irish university: A corpus-based analysis of student reflections** ; Stergiani Kostopoulou.
 * **CAMBEL Perspectives: Methodological Insights and Challenges and Limitations in Developing a Persian Learner Corpus** ; Mahbod Ghaffari, Saeed Safari.
-* **ChatGPT OpenAI and Human Interaction: A Contrastive Parallel Corpus-based Investigation of Syntactic Complexity features in human and Machine Translations** ; Muhammad Afzaal.
+* **ChatGPT OpenAI and Human Interaction: A Contrastive Parallel Corpus-based Investigation of Syntactic Complexity features in human and Machine Translations** ; Muhammad Afzaal, Xiao Shanshan.
 * **China’s Media Representations of Vegetarianism: A Corpus-Assisted Discourse Analysis** ; Yixing Liu.
 * **Classroom Desk-Course** ; Jeni Peake.
 * **Combining string similarity measures and frequency-based metrics: a new approach to measuring language distance between Slavic lects** ; Ilia Afanasev, Olga Lyashevskaya.
