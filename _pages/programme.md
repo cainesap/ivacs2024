@@ -105,7 +105,7 @@ Provisional timings:
 * **Presence and Absence of Laughter and Gestures. Examples from the BNC-Spoken 2014 and Dickens’ Novels** ; Michael T. L. Pace-Sigge.
 * **Progression and Task-based Variability of Linguistic Complexity across Grade Levels: A Case Study of the Secondary School Reading Texts in Hong Kong** ; Shue Sum Leung, Dora Alexopoulou.
 * **Proposal for Theoretical-Methodological Procedures to Identify Diachronic Variation in Legal Corpora: A Study Based on Brazilian Legislative Texts Across Centuries** ; Beatriz Curti-Contessoto, TALITA SERPA.
-* **Researching Poverty-themed Children’s Picture Books in the Contemporary United States: An Approach of Multimodal Discourse Analysis** ; HE Liang.
+* **Researching Poverty-themed Children’s Picture Books in the Contemporary United States: An Approach of Multimodal Discourse Analysis** ; Liang He.
 * **Resonance and intercultural imitation in second language testing** ; Vittorio Tantucci, Raffaella Bottini.
 * **Revisiting the relationships of n-gram measures to L2 writing proficiency: Comparisons between genres and connections to vocabulary levels** ; Lingmin Huang.
 * **Rhotacisation in the Beijing Dialect: A study of Erhua** ; Sijie Mou.
