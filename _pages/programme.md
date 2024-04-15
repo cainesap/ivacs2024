@@ -125,7 +125,7 @@ Provisional timings:
 * **The pluralization of the existential verb haber ‘there is/are’ in written and recorded parliamentary speeches in Canarian Spanish** ; Laura M. Merino Hernández, Johnatan E. Bonilla, Miriam Bouzouita.
 * **The power of stories: multilingual corpora and critical discourse analysis** ; Pascual Pérez-Paredes.
 * **The representations of freedom in The Sun newspaper between 2019 and 2021: a corpus-based study** ; Ljubica Leone.
-* **The word list repository: creating an open resource for researchers and teachers** ; Graham Burton.
+* **The word list repository: creating an open resource for researchers and teachers** ; Graham Burton, Maria Cristina Gatti.
 * **Towards a methodology of concordance organisation and interpretation** ; Natalie Finlayson, Michaela Mahlberg, Stephanie Evert, Alexsander Piperski.
 * **UK Media representation of COVID-during the first national lockdown: a corpus-assisted critical discourse analysis** ; Yahui Wang.
 * **Unraveling the Linguistic Tapestry: A Computational Exploration of José Ángel Valente's Poetry** ; Adina Ioana Vladu, Claudio Rodríguez Fer.
