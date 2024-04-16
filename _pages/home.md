@@ -1,16 +1,16 @@
 ---
-title: "The 11th Inter-Varietal Applied Corpus Studies (IVACS) Biennial Conference"
+title: "The 17th International Conference on Greek Linguistics (ICGL17)"
 layout: splash
 permalink: /
 header:
   overlay_image: "/assets/images/newmuseums.jpg"
   # caption: 'Photo of bicycle parked against a wall in Cambridge, U.K.'
-excerpt: "16-17th July 2024<br>University of Cambridge, U.K."
+excerpt: "23-25th September 2025<br>Faculty of Medieval and Modern Languages and Linguistics<br>University of Cambridge, U.K."
 ---
 
 ## Welcome!
 
-The 11th IVACS Conference will take place in Cambridge, U.K. on Tuesday 16th and Wednesday 17th July 2024.
+The 17th International Conference on Greek Linguistics will take place in Cambridge, U.K. from Tuesday 23th to Wednesday 25th September 2025.
 Please see the _[Call for Papers](/cfp)_
 
 
@@ -21,7 +21,6 @@ We are delighted that the following researchers will be giving plenary talks at 
 * [Dr Brian Clancy](https://www.mic.ul.ie/staff/276-brian-clancy)
 * [Dr Geraldine Mark](https://profiles.cardiff.ac.uk/staff/markg2)
 
-More information about the venue and registration will be published soon.
 
 
 ### Organising Committee
