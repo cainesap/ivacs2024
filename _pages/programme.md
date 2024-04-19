@@ -28,7 +28,6 @@ Provisional timings:
 * **A Corpus-assisted Discourse Study of Disputants’ Intentionality in Chinese Family Mediation** ; Meiqi Li, Ting Jiang.
 * **A New Kind of Graded Reader: The Digital Roleplaying Game** ; Paul Thomas Johnson.
 * **A Synthetic Brown Corpus: Compilation, analysis, and pitfalls** ; Mícheál J. Ó Meachair, Andrea Palandri, Gearóid Ó Cleircín.
-* **A corpus-based analysis of recontextualising strategies in the digital dissemination of knowledge on circular economy and sustainability** ; Pilar Mur-Dueñas.
 * **A corpus-based study on an Indonesian University EFL Teacher Translanguaging Strategies** ; Ninuk Krismanti, Liam Murray, Brona Murphy.
 * **A neural network model for constructional priming (resonance) in Mandarin and American English interaction** ; Ziwei Guo, Yu Chen.
 * **A new dataset for email research and professional communication: Fauci2020** ; Rachele De Felice, Kate Warwick.
@@ -41,18 +40,15 @@ Provisional timings:
 * **CAMBEL Perspectives: Methodological Insights and Challenges and Limitations in Developing a Persian Learner Corpus** ; Mahbod Ghaffari, Saeed Safari.
 * **ChatGPT OpenAI and Human Interaction: A Contrastive Parallel Corpus-based Investigation of Syntactic Complexity features in human and Machine Translations** ; Muhammad Afzaal, Xiao Shanshan.
 * **China’s Media Representations of Vegetarianism: A Corpus-Assisted Discourse Analysis** ; Yixing Liu.
-* **Classroom Desk-Course** ; Jeni Peake.
 * **Combining string similarity measures and frequency-based metrics: a new approach to measuring language distance between Slavic lects** ; Ilia Afanasev, Olga Lyashevskaya.
 * **Comparing French and Swedish web registers using multilingual word vectors** ; Saara Hellström.
 * **Comparing functional discourse units in Chinese and English conversational discourse: a cross-linguistic and corpus-based analysis** ; Liying Zhou.
-* **Competence and Creativity Indicators: A Taxonomy of Translation Positive Practices in The Undergraduate Learner Translator Corpus** ; Reem F. Alfuraih.
 * **Complexity matters in film and TV dialogue as input for informal L2 English learning: A corpus-based description** ; Maicol Formentelli, Liviana Galiano, Maria Pavesi, Raffaele Zago.
 * **Computing Coetzee’s Fiction: A Corpus Stylistic Analysis of Key Parts-of-Speech** ; Samuel Kwesi Nkansah.
 * **Conditionals in English and Spanish: Exploring differences in speech and writing** ; Cristina Lastres-López.
 * **Conversational Language Forms used by Learners of Persian: Insights from  a Learner Corpus-based Study** ; Sepideh Daghbandan.
 * **Cooperative mediation of love and relationship on social media in China: A corpus-assisted discourse analysis of comments and danmu on video-sharing platform Bilibili** ; Jing Huang.
 * **Corpus creation with and without keywords – does achieving corpus “aboutness” introduce bias?** ; David Oakey, Franco Zappettini, Ziwei Guo.
-* **Corpus-Based Design of Teaching Materials for Teaching Less Commonly Taught Languages Using TE-CON3 Model: A Case Study of Polish as Foreign Languages** ; Liping Wang.
 * **Corpus-based analysis of high-stake exam papers for materials design for disciplinary literacy development** ; Reka R. Jablonkai, Gail Forey.
 * **Corpus-driven investigation of the linguistic features of refusals in third level English language textbooks in Japan** ; Michael Savage.
 * **Crossing Translation Universals research and Language Variety studies: explicitation of the optional conjunction “that” in British and American translated novels** ; Virginia Mattioli.
@@ -79,11 +75,9 @@ Provisional timings:
 * **Following the science: a study of the  Downing street Covid-19 press conferences** ; Richard Badger.
 * **Framing lithium to attract stakeholders: using CL to investigate language and Ecology** ; Carolina Amador-Moreno, Ana María Terrazas-Calero.
 * **FreeTxt: a corpus-based approach to bilingual free-text survey and questionnaire data analysis** ; Dawn Knight, Paul Rayson, Mo El-Haj, Nouran Khallaf, Ignatius Ezeani, Steve Morris.
-* **From scholarly treatise to kitchen guidance: A corpus analysis of lexical bundles** ; Emmanuel Mensah Bonsu.
 * **Hands-off data-driven learning for Chinese students of English at the basic-independent levels** ; Qianhui Sun.
 * **Impoliteness variation in Britain: a corpus-based study** ; Isolde van Dorst, Mathew Gillings, Jonathan Culpeper.
 * **Importance marking in EMI and L1 lectures** ; Katrien Deroey, Jane Helen Johnson.
-* **Inside Out: To What Extent Does Word Choice Relate to Attitude? A Corpus Assisted Discourse Analysis of Sexist Language Use and Sexist Ideology.** ; Alicia Huertas.
 * **Interactional Variation Online: Building and Analysing a Corpus of Virtual Workplace Meetings** ; Christopher Fitzgerald, Justin McNamara, Anne O'Keeffe, Dawn Knight, Geraldine Mark, Sandrine Peraldi, Tania Fahey Palma, Fiona Farr, Ben Cowan, Svenja Adolphs.
 * **Introducing data-driven learning into Chinese higher education EAP writing instructional settings** ; Jingwen Ou.
 * **Introducing the Corpus of New Speakers of Irish English** ; Joan O'Sullivan, Tamami Shimada.
@@ -104,9 +98,7 @@ Provisional timings:
 * **Pragmatic markers and professional practice in care home interactions** ; Almut Koester.
 * **Presence and Absence of Laughter and Gestures. Examples from the BNC-Spoken 2014 and Dickens’ Novels** ; Michael T. L. Pace-Sigge.
 * **Progression and Task-based Variability of Linguistic Complexity across Grade Levels: A Case Study of the Secondary School Reading Texts in Hong Kong** ; Shue Sum Leung, Dora Alexopoulou.
-* **Proposal for Theoretical-Methodological Procedures to Identify Diachronic Variation in Legal Corpora: A Study Based on Brazilian Legislative Texts Across Centuries** ; Beatriz Curti-Contessoto, TALITA SERPA.
 * **Researching Poverty-themed Children’s Picture Books in the Contemporary United States: An Approach of Multimodal Discourse Analysis** ; HE Liang.
-* **Resonance and intercultural imitation in second language testing** ; Vittorio Tantucci, Raffaella Bottini.
 * **Revisiting the relationships of n-gram measures to L2 writing proficiency: Comparisons between genres and connections to vocabulary levels** ; Lingmin Huang.
 * **Rhotacisation in the Beijing Dialect: A study of Erhua** ; Sijie Mou.
 * **Self-help and cybersuperstition on China’s social media Xiao Hongshu: Moralizing and objectifying luck** ; Shangran Jin, Gwen Bouvier, Zhao Li.
@@ -116,7 +108,6 @@ Provisional timings:
 * **Sub-disciplinary Variations in Biology Texts and Implications on Instructions** ; Charles Lam.
 * **Syntactic complexity in the written productions of CLIL and non-CLIL English learners in Primary Education: a learner corpus-based study** ; Ana González-Martínez.
 * **Teaching styles and the ‘mixed’ category** ; Eniko Csomay.
-* **The Corpus on Chinese Environmental Discourse: designing and compiling a multi-genre domain-specific corpus** ; Laura Locatelli.
 * **The Dimensions of Fashion, a Multi-dimensional Study** ; Katherine Oliva Ortolani.
 * **The Lancaster-Northern Arizona Corpus of Spoken American English (LANA-CASE): Design, compilation, and ongoing progress** ; Elizabeth Hanks, Tony McEnery, Jesse Egbert, Tove Larsson, Douglas Biber, Randi Reppen, Paul Baker, Raffaella Bottini, Vaclav Brezina, Gavin Brookes, Isobelle Clarke.
 * **The Teacher-Student Chatroom Corpus: Exploring Student Teachers' Linguistic Choices and Perceptions** ; Elaine Riordan, Fiona Farr, Andrew Caines, Paula Buttery.
@@ -130,7 +121,6 @@ Provisional timings:
 * **UK Media representation of COVID-during the first national lockdown: a corpus-assisted critical discourse analysis** ; Yahui Wang.
 * **Unraveling the Linguistic Tapestry: A Computational Exploration of José Ángel Valente's Poetry** ; Adina Ioana Vladu, Claudio Rodríguez Fer.
 * **Use of Lexical bundles in academic writing in English by expert writers, L1 English students, and L2 English students of Applied Linguistics** ; Saqib Aziz.
-* **Using corpus linguistics to categorize fictive speech acts in a fashion corpus** ; Raquel Rossini Martins Cardoso, Katherine Oliva Ortolani.
 * **Variation across spoken genres: comparing the Spoken British National Corpus 2014 and the London-Lund Corpus 2** ; Robbie Love, Nele Põldvere.
 * **We used vs. We demonstrate: a diachronic comparison of self-mention in high-stakes research articles in life sciences** ; Artur Tsymbalyuk, Lilia Shevyrdyaeva.
 * **What's new in CQPweb: 2024 edition** ; Andrew Hardie.
