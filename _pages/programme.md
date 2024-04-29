@@ -99,7 +99,7 @@ Provisional timings:
 * **Presence and Absence of Laughter and Gestures. Examples from the BNC-Spoken 2014 and Dickens’ Novels** ; Michael T. L. Pace-Sigge.
 * **Progression and Task-based Variability of Linguistic Complexity across Grade Levels: A Case Study of the Secondary School Reading Texts in Hong Kong** ; Shue Sum Leung, Dora Alexopoulou.
 * **Researching Poverty-themed Children’s Picture Books in the Contemporary United States: An Approach of Multimodal Discourse Analysis** ; HE Liang.
-* **Revisiting the relationships of n-gram measures to L2 writing proficiency: Comparisons between genres and connections to vocabulary levels** ; Lingmin Huang.
+* **Revisiting the relationships of n-gram measures to L2 writing proficiency: Comparisons between genres and connections to vocabulary levels** ; Lingmin Huang, Yuanke Li.
 * **Rhotacisation in the Beijing Dialect: A study of Erhua** ; Sijie Mou.
 * **Self-help and cybersuperstition on China’s social media Xiao Hongshu: Moralizing and objectifying luck** ; Shangran Jin, Gwen Bouvier, Zhao Li.
 * **Shaping Perspectives: Unraveling Gender Narratives in Kazakhstani Education through the Lens of "Ozin-ozi tanu" Textbooks** ; Nazym Shaikhina.
