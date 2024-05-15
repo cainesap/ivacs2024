@@ -62,7 +62,7 @@ Provisional timings:
 * **Discourse of Menopause on Social Media across Cultures: A Corpus-Assisted Comparison between X and Weibo** ; Michelle Zeping Huang, Kacey Jianwen LIU.
 * **Do features of lexical richness distinguish and predict Chinese-as-a-Second-Language writing quality?** ; Yueming Du, Shue Sum Leung.
 * **Does gesture expressivity contribute to emotional resonance in storytelling interaction?** ; Christoph Rühlemann.
-* **Does the alignment quality of bilingual corpus have a greater impact on SMT or NMT? Taking the Spanish-Chinese legal bilingual corpus as an example, and analyzing the corpus particularities of the Spanish-Chinese language pair** ; Liu Xiao.
+* **Does the alignment quality of bilingual corpus have a greater impact on SMT or NMT? Taking the Spanish-Chinese legal bilingual corpus as an example, and analyzing the corpus particularities of the Spanish-Chinese language pair** ; Xiao Liu.
 * **Eat, pay, love: A corpus perspective on the language of first dates** ; Elaine Vaughan, Brian Clancy.
 * **Efficiency, accessibility, and redundancy: the case of postnominal demonstratives in Spanish** ; Laura M. Merino Hernández.
 * **Employing learner needs in corpus literacy teacher education (CLTE) programmes** ; Cathryn Bennett.
