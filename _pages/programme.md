@@ -43,6 +43,7 @@ Provisional timings:
 * **Combining string similarity measures and frequency-based metrics: a new approach to measuring language distance between Slavic lects** ; Ilia Afanasev, Olga Lyashevskaya.
 * **Comparing French and Swedish web registers using multilingual word vectors** ; Saara Hellström.
 * **Comparing functional discourse units in Chinese and English conversational discourse: a cross-linguistic and corpus-based analysis** ; Liying Zhou.
+* **Competence and Creativity Indicators: A Taxonomy of Translation Positive Practices in The Undergraduate Learner Translator Corpus**; Reem F. Alfuraih.
 * **Complexity matters in film and TV dialogue as input for informal L2 English learning: A corpus-based description** ; Maicol Formentelli, Liviana Galiano, Maria Pavesi, Raffaele Zago.
 * **Computing Coetzee’s Fiction: A Corpus Stylistic Analysis of Key Parts-of-Speech** ; Samuel Kwesi Nkansah.
 * **Conditionals in English and Spanish: Exploring differences in speech and writing** ; Cristina Lastres-López.
