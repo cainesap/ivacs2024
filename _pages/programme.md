@@ -65,7 +65,6 @@ Provisional timings:
 * **Does gesture expressivity contribute to emotional resonance in storytelling interaction?** ; Christoph Rühlemann.
 * **Does the alignment quality of bilingual corpus have a greater impact on SMT or NMT? Taking the Spanish-Chinese legal bilingual corpus as an example, and analyzing the corpus particularities of the Spanish-Chinese language pair** ; Xiao Liu.
 * **Eat, pay, love: A corpus perspective on the language of first dates** ; Elaine Vaughan, Brian Clancy.
-* **Efficiency, accessibility, and redundancy: the case of postnominal demonstratives in Spanish** ; Laura M. Merino Hernández.
 * **Employing learner needs in corpus literacy teacher education (CLTE) programmes** ; Cathryn Bennett.
 * **Enhancing Corpus Analysis through the Integration of Large Language Models (LLMs)** ; Laurence ANTHONY.
 * **Evaluating Whisper for Sociolinguistic Data Transcription** ; Andreas Weilinghoff.
@@ -114,7 +113,7 @@ Provisional timings:
 * **The Teacher-Student Chatroom Corpus: Exploring Student Teachers' Linguistic Choices and Perceptions** ; Elaine Riordan, Fiona Farr, Andrew Caines, Paula Buttery.
 * **The Write & Improve Corpus 2024** ; Diane Nicholls, Andrew Caines, Paula Buttery.
 * **The influence of L1 typology on the acquisition of the L2 English article: a large scale corpus study** ; Theodora Alexopoulou.
-* **The pluralization of the existential verb haber ‘there is/are’ in written and recorded parliamentary speeches in Canarian Spanish** ; Laura M. Merino Hernández, Johnatan E. Bonilla, Miriam Bouzouita.
+* **The pluralization of the existential verb haber ‘there is/are’ in written and recorded parliamentary speeches in Canarian Spanish** ; Johnatan E. Bonilla, Laura M. Merino Hernández, Miriam Bouzouita.
 * **The power of stories: multilingual corpora and critical discourse analysis** ; Pascual Pérez-Paredes.
 * **The representations of freedom in The Sun newspaper between 2019 and 2021: a corpus-based study** ; Ljubica Leone.
 * **The word list repository: creating an open resource for researchers and teachers** ; Graham Burton, Maria Cristina Gatti.
