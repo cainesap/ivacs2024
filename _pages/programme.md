@@ -92,7 +92,7 @@ Provisional timings:
 * **More than letters can tell** ; Dimitra Grigoriou.
 * **Multisemiotic moves in a multimodal corpus of student writing in higher education** ; Duygu Candarli.
 * **News coverage representation of immigrants in the British and the Spanish press:   A corpus-based exploration** ; Julia Lavid-Lopez, Lara Moraton.
-* **Nutcracker, a semi-supervised algorithm for the detection of online extremism and disinformation** ; Encarnacion Hidalgo-Tenorio, Miguel Angel Benitez-Castro, Juan Luis Castro-Peña.
+* **Nutcracker, a semi-supervised algorithm for the detection of online extremism and disinformation** ; Encarnacion Hidalgo-Tenorio, Miguel Angel Benitez-Castro, Aritz Gorostiza, Juan Luis Castro-Peña.
 * **Online dissemination of scientific content for educational purposes: recontextualising texts for teenage audiences.** ; Luís Martínez-Kleiser Magaña.
 * **Only a Matter of Words-A Corpus-Based Study of the Websites of Popular European Businesses Analysing Diversity and Inclusion Notes** ; Justin McNamara, Michaela Rusch.
 * **Pragmatic markers and professional practice in care home interactions** ; Almut Koester.
