@@ -36,6 +36,7 @@ Provisional timings:
 * **An UFA-approach to diachronic investigation into the identity construction of vegetarian in China Daily** ; Wenxuan Ren.
 * **An exploratory corpus-based investigation of British news discourse on anxiety within and beyond the pandemic** ; Linh Bo.
 * **Authenticity and intimacy: A corpus study on live blogs about the US presidential debates** ; Valentin Werner, Hendrik Michael, Lea Bracke.
+* **Automating analysis of creativity: how can AI complement corpus analysis?** ; Michael Handford
 * **Benefits and challenges of Pre-Sessional Programmes at an Irish university: A corpus-based analysis of student reflections** ; Stergiani Kostopoulou.
 * **CAMBEL Perspectives: Methodological Insights and Challenges and Limitations in Developing a Persian Learner Corpus** ; Mahbod Ghaffari, Saeed Safari.
 * **ChatGPT OpenAI and Human Interaction: A Contrastive Parallel Corpus-based Investigation of Syntactic Complexity features in human and Machine Translations** ; Muhammad Afzaal, Xiao Shanshan.
