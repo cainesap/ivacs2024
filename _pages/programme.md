@@ -123,7 +123,6 @@ Provisional timings:
 * **Use of Lexical bundles in academic writing in English by expert writers, L1 English students, and L2 English students of Applied Linguistics** ; Saqib Aziz.
 * **Variation across spoken genres: comparing the Spoken British National Corpus 2014 and the London-Lund Corpus 2** ; Robbie Love, Nele Põldvere.
 * **We used vs. We demonstrate: a diachronic comparison of self-mention in high-stakes research articles in life sciences** ; Artur Tsymbalyuk, Lilia Shevyrdyaeva.
-* **What's new in CQPweb: 2024 edition** ; Andrew Hardie.
 * **Why Making Words Better Is Not That Simple: Conceptual Engineering and Distributional Semantics** ; Nina Haket, Ryan Daniels.
 * **‘Dear Sir, write to mee on Mr Mudge’s backside’. Resourcefulness in letters by the poor and desperate, c.1760-1830.** ; Ivor Timmis.
 * **‘Have your coffin ready near you for you will suffer death’ Comparing and contrasting Irish and English 19th century threatening letters** ; Christopher Fitzgerald.
