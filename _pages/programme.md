@@ -84,7 +84,6 @@ Provisional timings:
 * **Introducing the Corpus of New Speakers of Irish English** ; Joan O'Sullivan, Tamami Shimada.
 * **Introducing the Corpus of Young German Learner English** ; Valentin Werner, Robert Fuchs, Anna Rosen, Lea Bracke, Bethany Stoddard.
 * **Investigating Document Internal Variation: Modeling Historical Registers and Assessing the Impact of Text Segments on Register Classification** ; Liina Repo.
-* **Investigating Interactions in an EFL Blended Learning Environment: A Corpus-Based Analysis of Face-To-Face and Online Modes** ; Asmaa Jazia Ghitri.
 * **Investigating formulaic sequences in university students’ disciplinary writing** ; Tanjun Liu.
 * **Is that an old hand?’ Corpus Insights into Managing Virtual Meetings** ; Justin McNamara, Anne O'Keeffe, Christopher Fitzgerald, Dawn Knight, Sandrine Peraldi, Geraldine Mark, Tania FaheyPalma, Fiona Farr, Benjamin Cowan, Svenja Adolphs.
 * **Medals and awards:  Providing quality assurance in online promotional discourse** ; Noelia Ramon, Belén Labrador.
