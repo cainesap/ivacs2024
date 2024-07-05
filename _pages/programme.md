@@ -22,7 +22,6 @@ Provisional timings:
 
 ## List of accepted papers
 
-* **... because my English is not . good . like . you see: Emerging spoken grammar competence in a learner corpus** ; Mateus Souza.
 * **A Corpus-Based Analysis of Teachers’ Questions in an EFL (English as Foreign Language) Classroom in Higher Education Context in Indonesia** ; Agustina Lestary.
 * **A Corpus-Based Study on Translator’s Style——Based on Translated Versions of Tao Te Ching by Arthur Waley and John Minford** ; Hu Haiping.
 * **A Corpus-assisted Discourse Study of Disputants’ Intentionality in Chinese Family Mediation** ; Meiqi Li, Ting Jiang.
