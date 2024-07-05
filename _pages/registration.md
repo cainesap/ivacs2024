@@ -46,7 +46,7 @@ Other accommodation options may be found on the [Visit Cambridge](https://www.vi
 
 The **conference dinner** will be held at Robinson College on the evening of Tuesday 16th July, with 3 courses for 50 GBP per person (excluding drinks).
 
-We would also like to gauge interest in **Cambridge tours** (punting or a walking tour): there is no charge for these at present, but you can tick a box when you register so that we get an indication of the level of interest.
+Thank you for showing interest in punting or walking tours of Cambridge. You can now sign up for these events on the registration site. The walking tour will take place before the conference, on Monday 15th July at 6pm, at a cost of £19 per person. The chauffered punt tour will take place after the conference, on Wednesday 17th July at 6.15pm, at a cost of £19.50. Both have limited places so secure your place today!
 
 
 ## Presenter instructions
