@@ -11,12 +11,13 @@ sidebar:
 
 ## Overview
 
-Day 0: Monday 15th July
-1800 Walking Tour of Cambridge (sign up on the [Registration](./registration) page)
+| Day 0: Monday 15th July |
+|---|
+| 1800 Walking Tour of Cambridge (sign up on the [Registration](./registration) page) |
 
-Day 1: Tuesday 16th July
+|Day 1: Tuesday 16th July|
+|0900 Welcome, Registration, Coffee|
 
-0900 Welcome, Registration, Coffee
 0930 Keynote 1
 1030 Break
 1045 Talks 1
