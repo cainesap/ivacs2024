@@ -11,27 +11,39 @@ sidebar:
 
 ## Overview
 
-| Day 0: Monday 15th July |
+|Day 0: Monday 15th July|
 |---|
-| 1800 Walking Tour of Cambridge (sign up on the [Registration](./registration) page) |
+|1800 Walking Tour of Cambridge (sign up on the [Registration](../registration) page)|
 
 |Day 1: Tuesday 16th July|
+|---|
 |0900 Welcome, Registration, Coffee|
+|0930 Keynote 1|
+|1030 Break|
+|1045 Talks 1|
+|1145 Break|
+|1200 Talks 2|
+|1300 Lunch|
+|1400 Talks 3|
+|1500 Break|
+|1530 Panel Discussion|
+|1630 Poster Session & Drinks|
+|1830 Conference Dinner|
 
-0930 Keynote 1
-1030 Break
-1045 Talks 1
-1145 Break
-1200 Talks 2
-1300 Lunch
-1400 Talks 3
-1500 Break
-1530 Panel Discussion
-1630 Poster Session & Drinks
-1830 Conference Dinner
-
-Day 2: Wednesday 17th July
-
+|Day 2: Wednesday 17th July|
+|---|
+|0900 Welcome, Registration, Coffee|
+|0930 Keynote 2|
+|1030 Break|
+|1045 Talks 4|
+|1145 Break|
+|1200 Talks 5|
+|1300 Lunch|
+|1400 Talks 6|
+|1500 Break|
+|1530 Talks 7|
+|1630 Conference Close|
+|1815 Chauffered Punt Tour, Scudamore's Mill Lane (sign up on the [Registration](../registration) page)|
 
 
 ## Day 1 schedule
