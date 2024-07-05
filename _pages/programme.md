@@ -37,7 +37,6 @@ Provisional timings:
 * **An exploratory corpus-based investigation of British news discourse on anxiety within and beyond the pandemic** ; Linh Bo.
 * **Authenticity and intimacy: A corpus study on live blogs about the US presidential debates** ; Valentin Werner, Hendrik Michael, Lea Bracke.
 * **Automating analysis of creativity: how can AI complement corpus analysis?** ; Michael Handford
-* **Benefits and challenges of Pre-Sessional Programmes at an Irish university: A corpus-based analysis of student reflections** ; Stergiani Kostopoulou.
 * **CAMBEL Perspectives: Methodological Insights and Challenges and Limitations in Developing a Persian Learner Corpus** ; Mahbod Ghaffari, Saeed Safari.
 * **ChatGPT OpenAI and Human Interaction: A Contrastive Parallel Corpus-based Investigation of Syntactic Complexity features in human and Machine Translations** ; Muhammad Afzaal, Xiao Shanshan.
 * **China’s Media Representations of Vegetarianism: A Corpus-Assisted Discourse Analysis** ; Yixing Liu.
@@ -59,7 +58,6 @@ Provisional timings:
 * **Deciphering German AI Narratives Using Corpus Linguistics** ; Marcel Kückelhaus.
 * **Decoding valency patterns and semantic senses: A comparative corpus analysis of TAKE in New Englishes and Learner Englishes** ; Yating Tao.
 * **Development of materials for the English as Foreign Language classroom: Compilation and analysis of a multimodal corpus** ; Paula Wood Borque.
-* **Dialectal variation in English Periphrastic Causative Constructions** ; Gili Diamant.
 * **Discipline-related features of research paper titles in political science and genetics: a comparative corpus study** ; Irina Iakovleva.
 * **Discourse of Menopause on Social Media across Cultures: A Corpus-Assisted Comparison between X and Weibo** ; Michelle Zeping Huang, Kacey Jianwen LIU.
 * **Do features of lexical richness distinguish and predict Chinese-as-a-Second-Language writing quality?** ; Yueming Du, Shue Sum Leung.
