@@ -11,10 +11,27 @@ sidebar:
 
 ## Overview
 
-Provisional timings:
+Day 0: Monday 15th July
+1800 Walking Tour of Cambridge (sign up on the [Registration](./registration) page)
 
-* Tuesday 16 July, 9am-6pm
-* Wednesday 17 July, 9am-5pm
+Day 1: Tuesday 16th July
+
+0900 Welcome, Registration, Coffee
+0930 Keynote 1
+1030 Break
+1045 Talks 1
+1145 Break
+1200 Talks 2
+1300 Lunch
+1400 Talks 3
+1500 Break
+1530 Panel Discussion
+1630 Poster Session & Drinks
+1830 Conference Dinner
+
+Day 2: Wednesday 17th July
+
+
 
 ## Day 1 schedule
 
