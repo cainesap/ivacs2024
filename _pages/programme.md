@@ -50,23 +50,23 @@ sidebar:
 
 |Day 1: Tuesday 16th July||
 |---|---|
-|0900 Welcome, Registration, Coffee||
-|0930 Keynote 1|Dr Brian Clancy, Mary Immaculate College, Ireland|
-|1030 Break||
-|1045 Talks 1|_Chair:_|
+|0900 **Welcome, Registration, Coffee**||
+|0930 **Keynote 1**|Dr Brian Clancy, Mary Immaculate College, Ireland|
+|1030 **Break**||
+|1045 **Talks 1**|_Chair:_|
 |1105||
 |1125||
-|1145 Break|
-|1200 Talks 2|_Chair:_|
+|1145 **Break**|
+|1200 **Talks 2**|_Chair:_|
 |1220||
 |1240||
-|1300 Lunch||
-|1400 Talks 3|_Chair:_|
+|1300 **Lunch**||
+|1400 **Talks 3**|_Chair:_|
 |1420||
 |1440||
-|1500 Break||
-|1530 Panel Discussion|_Chair:_|
-|1630 Poster Session & Drinks||
+|1500 **Break**||
+|1530 **Panel Discussion**|_Chair:_|
+|1630 **Poster Session & Drinks**|_Chairs:_|
 
 
 ## Day 2 schedule
