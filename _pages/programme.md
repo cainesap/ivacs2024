@@ -48,10 +48,13 @@ sidebar:
 
 ## Day 1 schedule
 
-|Day 1: Tuesday 16th July||
-|---|---|
-|0900 **Welcome, Registration, Coffee**||
-|0930 **Keynote 1**|Dr Brian Clancy, Mary Immaculate College, Ireland|
+### 0900 Welcome, Registration, Coffee
+
+### 0930 Keynote 1
+
+Dr Brian Clancy, Mary Immaculate College, Ireland
+
+
 |1030 **Break**||
 |1045 **Talks 1**|_Chair:_|
 |1105||
