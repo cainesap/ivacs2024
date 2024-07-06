@@ -13,7 +13,7 @@ sidebar:
 
 |Day 0: Monday 15th July|
 |---|
-|1800 Walking Tour of Cambridge (sign up on the [Registration](../registration) page)|
+|1800 Walking Tour of Cambridge (sign up on the [Registration page](../registration))|
 
 |Day 1: Tuesday 16th July|
 |---|
@@ -27,7 +27,7 @@ sidebar:
 |1400 Talks 3|
 |1500 Break|
 |1530 Panel Discussion|
-|1630 Poster Session & Drinks|
+|1630 Poster Session & Drinks Reception|
 |1830 Conference Dinner|
 
 |Day 2: Wednesday 17th July|
@@ -43,7 +43,7 @@ sidebar:
 |1500 Break|
 |1530 Talks 7|
 |1630 Conference Close|
-|1815 Chauffered Punt Tour, Scudamore's Mill Lane (sign up on the [Registration](../registration) page)|
+|1815 Chauffered Punt Tour, Scudamore's Mill Lane (sign up on the [Registration page](../registration))|
 
 
 ## Day 1 schedule
@@ -96,48 +96,86 @@ _Abstract_:
 
 ### 1200 Talks 2
 
+|Plenary room|_Chair:_|
+|---|---|
+|1200||
 |1220||
 |1240||
 
-|Plenary room|_Chair:_|
-|---|---|
-|1045||
-|1105||
-|1125||
-
 |Syndicate 1|_Chair:_|
 |---|---|
-|1045||
-|1105||
-|1125||
+|1200||
+|1220||
+|1240||
 
 |Syndicate 2|_Chair:_|
 |---|---|
-|1045||
-|1105||
-|1125||
+|1200||
+|1220||
+|1240||
 
 |Syndicate 3|_Chair:_|
 |---|---|
-|1045||
-|1105||
-|1125||
+|1200||
+|1220||
+|1240||
 
 
 ### 1300 Lunch, Foyer
 
 ### 1400 Talks 3
 
+|Plenary room|_Chair:_|
+|---|---|
+|1400||
 |1420||
 |1440||
+
+|Syndicate 1|_Chair:_|
+|---|---|
+|1400||
+|1420||
+|1440||
+
+|Syndicate 2|_Chair:_|
+|---|---|
+|1400||
+|1420||
+|1440||
+
+|Syndicate 3|_Chair:_|
+|---|---|
+|1400||
+|1420||
+|1440||
+
 
 ### 1500 Break, Foyer
 
 ### 1530 Panel Discussion, Plenary room
 
-### 1630 Poster Session & Drinks, Plenary room & Foyer
+_Topic_:
 
-_Chairs:_
+### 1630 Poster Session & Drinks Reception
+
+|Plenary room|_Chairs:_|
+|---|---|
+|*||
+|*||
+|*||
+|*||
+|*||
+|*||
+|*||
+|*||
+|*||
+|*||
+|*||
+
+
+### 1830 Conference Dinner
+
+The Main Hall, Robinson College. _Please note that the dinner is not included in your registration fee. If you still wish to attend, please purchase a dinner ticket asap on the_ [Registration page](../registration).
 
 
 ## Day 2 schedule
