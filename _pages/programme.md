@@ -50,13 +50,25 @@ sidebar:
 
 ### 0900 Welcome, Registration, Coffee
 
+In the foyer of the Crausaz Wordsworth Building, Robinson College, Adams Rd, Cambridge CB3 9AD.
+_Please note that parking is limited: get in touch if you have questions about this._
+
 ### 0930 Keynote 1
 
 Dr Brian Clancy, Mary Immaculate College, Ireland
 
+_Bio_:
 
-|1030 **Break**||
-|1045 **Talks 1**|_Chair:_|
+_Title_:
+
+_Abstract_:
+
+### 1030 Break
+
+### 1045 Talks 1
+
+_Chair:_
+
 |1105||
 |1125||
 |1145 **Break**|
