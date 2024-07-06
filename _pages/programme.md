@@ -53,7 +53,7 @@ sidebar:
 In the foyer of the Crausaz Wordsworth Building, Robinson College, Adams Rd, Cambridge CB3 9AD.
 _Please note that parking is limited: get in touch if you have questions about this._
 
-### 0930 Keynote 1
+### 0930 Keynote 1, Plenary room
 
 Dr Brian Clancy, Mary Immaculate College, Ireland
 
@@ -63,25 +63,81 @@ _Title_:
 
 _Abstract_:
 
-### 1030 Break
+### 1030 Break, Foyer
 
 ### 1045 Talks 1
 
-_Chair:_
-
+|Plenary room|_Chair:_|
+|---|---|
+|1045||
 |1105||
 |1125||
-|1145 **Break**|
-|1200 **Talks 2**|_Chair:_|
+
+|Syndicate 1|_Chair:_|
+|---|---|
+|1045||
+|1105||
+|1125||
+
+|Syndicate 2|_Chair:_|
+|---|---|
+|1045||
+|1105||
+|1125||
+
+|Syndicate 3|_Chair:_|
+|---|---|
+|1045||
+|1105||
+|1125||
+
+
+### 1145 Break, Foyer
+
+### 1200 Talks 2
+
 |1220||
 |1240||
-|1300 **Lunch**||
-|1400 **Talks 3**|_Chair:_|
+
+|Plenary room|_Chair:_|
+|---|---|
+|1045||
+|1105||
+|1125||
+
+|Syndicate 1|_Chair:_|
+|---|---|
+|1045||
+|1105||
+|1125||
+
+|Syndicate 2|_Chair:_|
+|---|---|
+|1045||
+|1105||
+|1125||
+
+|Syndicate 3|_Chair:_|
+|---|---|
+|1045||
+|1105||
+|1125||
+
+
+### 1300 Lunch, Foyer
+
+### 1400 Talks 3
+
 |1420||
 |1440||
-|1500 **Break**||
-|1530 **Panel Discussion**|_Chair:_|
-|1630 **Poster Session & Drinks**|_Chairs:_|
+
+### 1500 Break, Foyer
+
+### 1530 Panel Discussion, Plenary room
+
+### 1630 Poster Session & Drinks, Plenary room & Foyer
+
+_Chairs:_
 
 
 ## Day 2 schedule
