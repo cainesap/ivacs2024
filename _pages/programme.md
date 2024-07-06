@@ -53,6 +53,7 @@ sidebar:
 In the foyer of the Crausaz Wordsworth Building, Robinson College, Adams Rd, Cambridge CB3 9AD.
 _Please note that parking is limited: get in touch if you have questions about this._
 
+
 ### 0930 Keynote 1, Plenary room
 
 Dr Brian Clancy, Mary Immaculate College, Ireland
@@ -62,6 +63,7 @@ _Bio_:
 _Title_:
 
 _Abstract_:
+
 
 ### 1030 Break, Foyer
 
@@ -156,6 +158,9 @@ _Abstract_:
 
 _Topic_:
 
+_Discussants_:
+
+
 ### 1630 Poster Session & Drinks Reception
 
 |Plenary room|_Chairs:_|
@@ -175,10 +180,145 @@ _Topic_:
 
 ### 1830 Conference Dinner
 
-The Main Hall, Robinson College. _Please note that the dinner is not included in your registration fee. If you still wish to attend, please purchase a dinner ticket asap on the_ [Registration page](../registration).
+The Main Hall, Robinson College. _Please note that the dinner is not included in your registration fee. If you still wish to attend, please purchase a dinner ticket asap via the_ [Registration page](../registration).
 
 
 ## Day 2 schedule
+
+### 0900 Welcome, Registration, Coffee
+
+In the foyer of the Crausaz Wordsworth Building, Robinson College, Adams Rd, Cambridge CB3 9AD.
+_Please note that parking is limited: get in touch if you have questions about this._
+
+### 0930 Keynote 2, Plenary room
+
+Dr Geraldine Mark, Cardiff University, U.K.
+
+_Bio_:
+
+_Title_:
+
+_Abstract_:
+
+
+### 1030 Break, Foyer
+
+### 1045 Talks 4
+
+|Plenary room|_Chair:_|
+|---|---|
+|1045||
+|1105||
+|1125||
+
+|Syndicate 1|_Chair:_|
+|---|---|
+|1045||
+|1105||
+|1125||
+
+|Syndicate 2|_Chair:_|
+|---|---|
+|1045||
+|1105||
+|1125||
+
+|Syndicate 3|_Chair:_|
+|---|---|
+|1045||
+|1105||
+|1125||
+
+
+### 1145 Break, Foyer
+
+### 1200 Talks 5
+
+|Plenary room|_Chair:_|
+|---|---|
+|1200||
+|1220||
+|1240||
+
+|Syndicate 1|_Chair:_|
+|---|---|
+|1200||
+|1220||
+|1240||
+
+|Syndicate 2|_Chair:_|
+|---|---|
+|1200||
+|1220||
+|1240||
+
+|Syndicate 3|_Chair:_|
+|---|---|
+|1200||
+|1220||
+|1240||
+
+
+### 1300 Lunch, Foyer
+
+### 1400 Talks 6
+
+|Plenary room|_Chair:_|
+|---|---|
+|1400||
+|1420||
+|1440||
+
+|Syndicate 1|_Chair:_|
+|---|---|
+|1400||
+|1420||
+|1440||
+
+|Syndicate 2|_Chair:_|
+|---|---|
+|1400||
+|1420||
+|1440||
+
+|Syndicate 3|_Chair:_|
+|---|---|
+|1400||
+|1420||
+|1440||
+
+
+### 1500 Break, Foyer
+
+### 1530 Talks 7
+
+|Plenary room|_Chair:_|
+|---|---|
+|1530||
+|1550||
+|1610||
+
+|Syndicate 1|_Chair:_|
+|---|---|
+|1530||
+|1550||
+|1610||
+
+|Syndicate 2|_Chair:_|
+|---|---|
+|1530||
+|1550||
+|1610||
+
+|Syndicate 3|_Chair:_|
+|---|---|
+|1530||
+|1550||
+|1610||
+
+
+### 1630 Conference Close
+
 
 ## List of registered papers
 
