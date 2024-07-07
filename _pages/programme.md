@@ -58,7 +58,7 @@ _Please note that parking is limited: get in touch if you have questions about t
 
 Dr Brian Clancy, Mary Immaculate College, Ireland
 
-![alt text](brian.jpg))
+![Portrait picture of Dr Brian Clancy, Mary Immaculate College, Ireland](brian.jpg)
 
 _Bio_: Brian Clancy is a lecturer in applied linguistics at Mary Immaculate College, Ireland. His
 research work focusses on the blend of a corpus linguistic methodology with the
@@ -71,7 +71,7 @@ Exploring the spoken interaction of families, couples and close friends_ (Routle
 and co-author, with Anne O’Keeffe and Svenja Adolphs, of _Introducing Pragmatics in Use_
 (Routledge, 2011 and 2020).
 
-_Title_: A Many-Splendored Thing: (Corpus) Perspectives on Intimate Discourse
+_Title_: **A Many-Splendored Thing: (Corpus) Perspectives on Intimate Discourse**
 
 _Abstract_: This paper takes a pluralistic, corpus approach to explorations of intimate discourse. Intimate
 discourse, that is to say the conversation between couples, family and close friends, is an
@@ -94,7 +94,9 @@ complement one another. In doing so, it argues for the value of applied corpus a
 calibration of language that is core to our interpersonal relationships, should be highlighted and
 valorised.
 
-_References_: Clancy, B. 2016. Investigating Intimate Discourse: Exploring the Spoken Interaction of Families,
+**References**:
+
+Clancy, B. 2016. Investigating Intimate Discourse: Exploring the Spoken Interaction of Families,
 Couples and Friends. London: Routledge.
 
 Haugh, M and Sinkeviciute, V. 2021. ‘The pragmatics of initial interactions: Cross-cultural and
