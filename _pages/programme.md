@@ -60,9 +60,34 @@ Dr Brian Clancy, Mary Immaculate College, Ireland
 
 _Bio_:
 
-_Title_:
+_Title_: A Many-Splendored Thing: (Corpus) Perspectives on Intimate Discourse
 
-_Abstract_:
+_Abstract_: This paper takes a pluralistic, corpus approach to explorations of intimate discourse. Intimate
+discourse, that is to say the conversation between couples, family and close friends, is an
+integral part of our lives and everyday spoken world. Much of the initial literature on intimacy
+explored what might be referred to as ‘established intimacy’, with a focus on parents with
+children or friends that lived in shared accommodation over a long period of time (see Clancy,
+2016). One of the reasons for the privileging of these sites was the issue of the accessibility of
+the context, which meant that much of the data collection was, by necessity, opportunistic.
+However, alongside today’s growing proliferation of data in the public domain, and more
+openness to seeing the potential in different types of linguistic data, there are more routes to
+intimate discourse than ever before. This has allowed researchers to continue their focus on
+established intimacy, while also investigating what we can term ‘nascent intimacy’, such as
+initial encounters (see, for example, Haugh and Sinkeviciute, 2021), and indeed, initial romantic
+encounters. Using a comparative corpus approach that primarily utilises first-generation
+concordancing tools such as keyword lists and concordance lines, and a range of small corpora
+collected to represent spoken Irish English, this paper seeks to marry findings from both
+established and nascent intimacy in order to determine how they might inform and
+complement one another. In doing so, it argues for the value of applied corpus approaches, a
+‘first principles’ orientation to seeing into datasets, and how intimate discourse, the delicate
+calibration of language that is core to our interpersonal relationships, should be highlighted and
+valorised.
+
+_References_: Clancy, B. 2016. Investigating Intimate Discourse: Exploring the Spoken Interaction of Families,
+Couples and Friends. London: Routledge.
+
+Haugh, M and Sinkeviciute, V. 2021. ‘The pragmatics of initial interactions: Cross-cultural and
+intercultural perspectives.’ Journal of Pragmatics, 185, 35-39.
 
 
 ### 1030 Break, Foyer
