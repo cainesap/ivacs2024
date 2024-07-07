@@ -58,7 +58,18 @@ _Please note that parking is limited: get in touch if you have questions about t
 
 Dr Brian Clancy, Mary Immaculate College, Ireland
 
-_Bio_:
+![alt text](brian.jpg))
+
+_Bio_: Brian Clancy is a lecturer in applied linguistics at Mary Immaculate College, Ireland. His
+research work focusses on the blend of a corpus linguistic methodology with the
+discourse analytic approaches of pragmatics and sociolinguistics. His primary
+methodological interests relate to the use of corpora in the study of language varieties
+and the construction and analysis of small corpora. His published work explores
+language use in intimate settings, such as between family and close friends, and the
+language variety Irish English. He is author of _Investigating Intimate Discourse:
+Exploring the spoken interaction of families, couples and close friends_ (Routledge, 2016)
+and co-author, with Anne O’Keeffe and Svenja Adolphs, of _Introducing Pragmatics in Use_
+(Routledge, 2011 and 2020).
 
 _Title_: A Many-Splendored Thing: (Corpus) Perspectives on Intimate Discourse
 
