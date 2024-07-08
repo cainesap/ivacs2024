@@ -11,6 +11,9 @@ sidebar:
 
 ## Overview
 
+All times are BST (UTC+1).
+
+
 |Day 0: Monday 15th July|
 |---|
 |1300 Check-in opens for those with pre-booked accommodation at Robinson College|
@@ -49,13 +52,13 @@ sidebar:
 
 ## Day 0 schedule: Monday 15th July
 
-### 1300 Check-in opens at Robinson College
+### 1300 - Check-in opens at Robinson College
 
 For those who have pre-booked accommodation (see the [Registration page](../registration) for availability).
 Please go to the Porters' Lodge on Grange Road, CB3 9AN. Telephone: +44 (0)1223 33910.
 
 
-### 1800 Walking tour of Cambridge
+### 1800 - Walking tour of Cambridge
 
 A 90-minute guided walking tour of Cambridge city centre.
 Sign up on the [Registration page](../registration).
@@ -64,13 +67,13 @@ Meeting place TBC.
 
 ## Day 1 schedule: Tuesday 16th July
 
-### 0900 Welcome, Registration, Coffee
+### 0900 - Welcome, Registration, Coffee
 
 In the foyer of the Crausaz Wordsworth Building, Robinson College, Adams Rd, Cambridge CB3 9AD.
-_Please note that parking is limited: get in touch if you have questions about this._
+_Please note that on-site parking is limited: get in touch if you have questions about this._
 
 
-### 0930 Keynote 1, Plenary room
+### 0930 - Keynote 1, Plenary room
 
 Dr Brian Clancy, Mary Immaculate College, Ireland
 
@@ -121,9 +124,9 @@ intercultural perspectives.’ Journal of Pragmatics, 185, 35-39.
 _Chair_: TBC
 
 
-### 1030 Break, Foyer
+### 1030 - Break, Foyer
 
-### 1045 Talks 1
+### 1045 - Talks 1
 
 |Plenary room|_Chair: Odette Vassallo_|
 |---|---|
@@ -150,9 +153,9 @@ _Chair_: TBC
 |1125|**Lilia Shevyrdyaeva** : Academic tribes and discursive identity: metadiscourse patterns in research articles in closely related life sciences|
 
 
-### 1145 Break, Foyer
+### 1145 - Break, Foyer
 
-### 1200 Talks 2
+### 1200 - Talks 2
 
 |Plenary room|_Chair: Elaine Riordan_|
 |---|---|
@@ -179,15 +182,15 @@ _Chair_: TBC
 |1240|**Katherine Oliva Ortolani** : The Dimensions of Fashion, a Multi-dimensional Study|
 
 
-### 1300 Lunch, Foyer
+### 1300 - Lunch, Foyer
 
-### 1400 Talks 3
+### 1400 - Talks 3
 
 |Plenary room|_Chair: Mateus De Souza_|
 |---|---|
 |1400|**Dawn Knight, Paul Rayson, Mo El-Haj, Nouran Khallaf, Ignatius Ezeani, Steve Morris** : FreeTxt: a corpus-based approach to bilingual free-text survey and questionnaire data analysis|
 |1420|**Christopher Fitzgerald, Justin McNamara, Anne O'Keeffe, Dawn Knight, Geraldine Mark, Sandrine Peraldi, Tania Fahey Palma, Fiona Farr, Ben Cowan, Svenja Adolphs** : Interactional Variation Online: Building and Analysing a Corpus of Virtual Workplace Meetings|
-|1440|**Justin McNamara, Anne O'Keeffe, Christopher Fitzgerald, Dawn Knight, Sandrine Peraldi, Geraldine Mark, Tania FaheyPalma, Fiona Farr, Benjamin Cowan, Svenja Adolphs** : Is that an old hand?’ Corpus Insights into Managing Virtual Meetings|
+|1440|**Justin McNamara, Anne O'Keeffe, Christopher Fitzgerald, Dawn Knight, Sandrine Peraldi, Geraldine Mark, Tania Fahey Palma, Fiona Farr, Benjamin Cowan, Svenja Adolphs** : Is that an old hand?’ Corpus Insights into Managing Virtual Meetings|
 
 |Syndicate 1|_Chair: Yuan Gao_|
 |---|---|
@@ -208,16 +211,18 @@ _Chair_: TBC
 |1440|**Sepideh Daghbandan** : Conversational Language Forms used by Learners of Persian: Insights from a Learner Corpus-based Study|
 
 
-### 1500 Break, Foyer
+### 1500 - Break, Foyer
 
-### 1530 Panel Discussion, Plenary room
+### 1530 - Panel Discussion, Plenary room
 
 _Topic_: Trust the Text? Generative AI and Corpus Linguistics
 
 _Discussants_: Michael McCarthy, Paula Buttery, Dawn Knight, Michael Handford
 
+_Chair_: Andrew Caines
 
-### 1630 Poster Session & Drinks Reception
+
+### 1630 - Poster Session & Drinks Reception
 
 |Plenary room|_Chairs: Diana Galvan-Sosa, Yuan Gao, Gabrielle Gaudeau_|
 |---|---|
@@ -234,19 +239,19 @@ _Discussants_: Michael McCarthy, Paula Buttery, Dawn Knight, Michael Handford
 |*|**Agustina Lestary** : A Corpus-Based Analysis of Teachers’ Questions in an EFL (English as Foreign Language) Classroom in Higher Education Context in Indonesia|
 
 
-### 1830 Conference Dinner
+### 1830 - Conference Dinner
 
 The Main Hall, Robinson College. _Please note that the dinner is not included in your registration fee. If you still wish to attend, please purchase a dinner ticket asap via the_ [Registration page](../registration).
 
 
 ## Day 2 schedule: Wednesday 17th July
 
-### 0900 Welcome, Registration, Coffee
+### 0900 - Welcome, Registration, Coffee
 
 In the foyer of the Crausaz Wordsworth Building, Robinson College, Adams Rd, Cambridge CB3 9AD.
-_Please note that parking is limited: get in touch if you have questions about this._
+_Please note that on-site parking is limited: get in touch if you have questions about this._
 
-### 0930 Keynote 2, Plenary room
+### 0930 - Keynote 2, Plenary room
 
 Dr Geraldine Mark, Cardiff University, U.K.
 
@@ -278,21 +283,19 @@ Quantitative corpus linguistic approaches_. Cambridge University Press.
 Gablasova, D., Brezina, V., & McEnery, T. (2017). Collocations in corpus-based language learning research:
 Identifying, comparing, and interpreting the evidence. _Language learning_, 67(S1), 155-179
 
-* The Cambridge Learner Corpus (CLC) is a corpus of written exam data from Cambridge English exams. The
+\* The Cambridge Learner Corpus (CLC) is a corpus of written exam data from Cambridge English exams. The
 data used for this study stands at 55.5 million words and comprises 266,600 exam documents of open-ended
 writing, spanning 143 different first languages backgrounds, six proficiency levels, from a 17-year period
 (1993–2012).
 
-†LINDSEI (Louvain International Database of Spoken English Interlanguage) https://uclouvain.be/en/research-
-institutes/ilc/cecl/lindsei.html; LOCNEC (Louvain Corpus of Native English Conversation)
-https://corpora.uclouvain.be/catalog/corpus/locnec
+† [LINDSEI (Louvain International Database of Spoken English Interlanguage)](https://uclouvain.be/en/research-institutes/ilc/cecl/lindsei.html); [LOCNEC (Louvain Corpus of Native English Conversation)](https://corpora.uclouvain.be/catalog/corpus/locnec)
 
 _Chair_: TBC
 
 
-### 1030 Break, Foyer
+### 1030 - Break, Foyer
 
-### 1045 Talks 4
+### 1045 - Talks 4
 
 |Plenary room|_Chair: Paula Buttery_|
 |---|---|
@@ -319,9 +322,9 @@ _Chair_: TBC
 |1125||
 
 
-### 1145 Break, Foyer
+### 1145 - Break, Foyer
 
-### 1200 Talks 5
+### 1200 - Talks 5
 
 |Plenary room|_Chair: Elaine Vaughan_|
 |---|---|
@@ -348,9 +351,9 @@ _Chair_: TBC
 |1240|**Jean Marguerite Jimenez, Ida Ruffolo** : FAIR AND FAST FASHION? A content and linguistic analysis of gender equality in CSR reports|
 
 
-### 1300 Lunch, Foyer
+### 1300 - Lunch, Foyer
 
-### 1400 Talks 6
+### 1400 - Talks 6
 
 |Plenary room|_Chair: Christopher Fitzgerald_|
 |---|---|
@@ -377,9 +380,9 @@ _Chair_: TBC
 |1440|**Michael T. L. Pace-Sigge** : Presence and Absence of Laughter and Gestures. Examples from the BNC-Spoken 2014 and Dickens' Novels|
 
 
-### 1500 Break, Foyer
+### 1500 - Break, Foyer
 
-### 1530 Talks 7
+### 1530 - Talks 7
 
 |Plenary room|_Chair: Pascual Pérez-Paredes_|
 |---|---|
@@ -406,9 +409,9 @@ _Chair_: TBC
 |1610||
 
 
-### 1630 Conference Close
+### 1630 - Conference Close
 
-### 1815 Chauffered Punt Tour
+### 1815 - Chauffered Punt Tour
 
 45-minute chauffered punt tour on the River Cam from Scudamore's Punting Station on Mill Lane, CB2 1RS.
 Sign up on the [Registration page](../registration).
@@ -423,7 +426,7 @@ Sign up on the [Registration page](../registration).
 * 6, **Jing Chen, Yun Liu** : Metadiscourse in Research Article Abstracts in Musicology: An English-Chinese Comparative Study
 * 7, **Christopher Fitzgerald, Ivor Timmis** : ‘Have your coffin ready near you for you will suffer death’ Comparing and contrasting Irish and English 19th century threatening letters
 * 9, **Christopher Fitzgerald, Justin McNamara, Anne O'Keeffe, Dawn Knight, Geraldine Mark, Sandrine Peraldi, Tania Fahey Palma, Fiona Farr, Ben Cowan, Svenja Adolphs** : Interactional Variation Online: Building and Analysing a Corpus of Virtual Workplace Meetings
-* 10, **Justin McNamara, Anne O'Keeffe, Christopher Fitzgerald, Dawn Knight, Sandrine Peraldi, Geraldine Mark, Tania FaheyPalma, Fiona Farr, Benjamin Cowan, Svenja Adolphs** : Is that an old hand?’ Corpus Insights into Managing Virtual Meetings
+* 10, **Justin McNamara, Anne O'Keeffe, Christopher Fitzgerald, Dawn Knight, Sandrine Peraldi, Geraldine Mark, Tania Fahey Palma, Fiona Farr, Benjamin Cowan, Svenja Adolphs** : Is that an old hand?’ Corpus Insights into Managing Virtual Meetings
 * 13, **Ziwei Guo, Yu Chen** : A neural network model for constructional priming (resonance) in Mandarin and American English interaction
 * 14, **Meiqi Li, Ting Jiang** : A Corpus-assisted Discourse Study of Disputants’ Intentionality in Chinese Family Mediation
 * 15, **Saqib Aziz** : Use of Lexical bundles in academic writing in English by expert writers, L1 English students, and L2 English students of Applied Linguistics
