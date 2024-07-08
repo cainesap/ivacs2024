@@ -234,7 +234,7 @@ Dr Geraldine Mark, Cardiff University, U.K.
 
 ![Portrait picture of Dr Geraldine Mark, Cardiff University, U.K.](geraldine.jpg)
 
-_Bio_: Geraldine Mark is a freelance corpus linguist whose interests include language development, data-driven learning, and discourse analysis. Most recently she has been working on a multi-modal corpus project, IVO (www.ivohub.com), examining multi-modal interaction in the virtual workplace. She is a Visiting Lecturer at the University of Malta, and advises on the FoRCE project, building and analysing a corpus of Maltese English. She is co-author of _English Grammar Today_ (2011, Cambridge University Press, with Ronald Carter, Michael McCarthy and Anne O’Keeffe) and co-principal researcher (with Anne O’Keeffe) of the _English Grammar Profile_, an online resource profiling L2 grammar development.
+_Bio_: Geraldine Mark is a corpus linguist whose interests include language development, data-driven learning, and discourse analysis. Most recently she has been working on a multi-modal corpus project, IVO (www.ivohub.com), examining multi-modal interaction in the virtual workplace. She is a Visiting Lecturer at the University of Malta, and advises on the FoRCE project, building and analysing a corpus of Maltese English. She is co-author of _English Grammar Today_ (2011, Cambridge University Press, with Ronald Carter, Michael McCarthy and Anne O’Keeffe) and co-principal researcher (with Anne O’Keeffe) of the _English Grammar Profile_, an online resource profiling L2 grammar development.
 
 _Title_: **Shall I compare thee to the BNC?**
 
