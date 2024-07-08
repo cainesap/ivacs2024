@@ -288,7 +288,7 @@ data used for this study stands at 55.5 million words and comprises 266,600 exam
 writing, spanning 143 different first languages backgrounds, six proficiency levels, from a 17-year period
 (1993–2012).
 
-† [LINDSEI (Louvain International Database of Spoken English Interlanguage)](https://uclouvain.be/en/research-institutes/ilc/cecl/lindsei.html); [LOCNEC (Louvain Corpus of Native English Conversation)](https://corpora.uclouvain.be/catalog/corpus/locnec)
+† [LINDSEI](https://uclouvain.be/en/research-institutes/ilc/cecl/lindsei.html) (Louvain International Database of Spoken English Interlanguage); [LOCNEC](https://corpora.uclouvain.be/catalog/corpus/locnec) (Louvain Corpus of Native English Conversation)
 
 _Chair_: TBC
 
