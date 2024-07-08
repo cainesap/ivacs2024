@@ -134,7 +134,7 @@ _Chair_: TBC
 |1105|**Theodora Alexopoulou** : The influence of L1 typology on the acquisition of the L2 English article: a large scale corpus study|
 |1125|**Elaine Riordan, Fiona Farr, Andrew Caines, Paula Buttery** : The Teacher-Student Chatroom Corpus: Exploring Student Teachers' Linguistic Choices and Perceptions|
 
-|Syndicate 1|_Chair: Dawn Knight_|
+|Syndicate 1|_Chair: Brian Clancy_|
 |---|---|
 |1045|**Michael T. L. Pace-Sigge** : Deborah, Linguist yet Professor Michael. How British corpora reflect gender-relation through forms of address|
 |1105|**Ninuk Krismanti, Liam Murray, Brona Murphy** : A corpus-based study on an Indonesian University EFL Teacher Translanguaging Strategies|
@@ -313,7 +313,7 @@ _Chair_: TBC
 |---|---|
 |1045|**Michael Savage** : Corpus-driven investigation of the linguistic features of refusals in third level English language textbooks in Japan|
 |1105|**Shue Sum Leung, Dora Alexopoulou** : Progression and Task-based Variability of Linguistic Complexity across Grade Levels: A Case Study of the Secondary School Reading Texts in Hong Kong|
-|1125|**Maicol Formentelli, Liviana Galiano, Maria Pavesi, Raffaele Zago** : Complexity matters in film and TV dialogue as input for informal L2 English learning: A corpus-based description|
+|1125|**Maicol Formentelli, Liviana Galiano, Maria Pavesi, Raffaele Zago** : Complexity matters in film and TV dialogue: An applied linguistics perspective|
 
 |Syndicate 3|_Chair: Gabrielle Gaudeau_|
 |---|---|
@@ -332,7 +332,7 @@ _Chair_: TBC
 |1220|**Mícheál J. Ó Meachair, Andrea Palandri, Gearóid Ó Cleircín** : A Synthetic Brown Corpus: Compilation, analysis, and pitfalls|
 |1240|**Almut Köster** : Pragmatic markers and professional practice in care home interactions|
 
-|Syndicate 1|_Chair: Brian Clancy_|
+|Syndicate 1|_Chair: Dawn Knight_|
 |---|---|
 |1200|**Marcel Kückelhaus** : Deciphering German AI Narratives Using Corpus Linguistics|
 |1220|**Muhammad Afzaal, Xiao Shanshan** : ChatGPT OpenAI and Human Interaction: A Contrastive Parallel Corpus-based Investigation of Syntactic Complexity features in human and Machine Translations|
