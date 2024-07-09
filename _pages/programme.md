@@ -173,7 +173,7 @@ _Chair_: Prof Michael McCarthy
 |---|---|
 |1200|**Sijie Mou** : Rhotacisation in the Beijing Dialect: A study of Erhua|
 |1220|**Shangran Jin, Gwen Bouvier, Zhao Li** : Self-help and cybersuperstition on China’s social media Xiao Hongshu: Moralizing and objectifying luck|
-|1240|**Yueming Du, Shue Sum Leung** : Do features of lexical richness distinguish and predict Chinese-as-a-Second-Language writing quality?|
+|1240||
 
 |Syndicate 3|_Chair: Andrew Caines_ (pre-recorded talks)|
 |---|---|
@@ -227,7 +227,7 @@ _Chair_: Andrew Caines
 |Plenary room|_Chairs: Diana Galvan-Sosa, Yuan Gao, Gabrielle Gaudeau_|
 |---|---|
 |*|**HE Liang** : Researching Poverty-themed Children’s Picture Books in the Contemporary United States: An Approach of Multimodal Discourse Analysis|
-|*|**Jingwen Ou** : Introducing data-driven learning into Chinese higher education EAP writing instructional settings|
+|*|**Yueming Du, Shue Sum Leung** : Do features of lexical richness distinguish and predict Chinese-as-a-Second-Language writing quality?|
 |*|**Luís Martínez-Kleiser Magaña** : Online dissemination of scientific content for educational purposes: recontextualising texts for teenage audiences|
 |*|**Nazym Shaikhina** : Shaping Perspectives: Unraveling Gender Narratives in Kazakhstani Education through the Lens of "Ozin-ozi tanu" Textbooks|
 |*|**Lingmin Huang, Yuanke Li** : Revisiting the relationships of n-gram measures to L2 writing proficiency: Comparisons between genres and connections to vocabulary levels|
@@ -406,7 +406,7 @@ _Chair_: TBC
 |---|---|
 |1530|**Ljubica Leone** : The representations of freedom in The Sun newspaper between 2019 and 2021: a corpus-based study|
 |1550|**Eniko Csomay** : Teaching styles and the 'mixed' category|
-|1610||
+|1610|**Jingwen Ou** : Introducing data-driven learning into Chinese higher education EAP writing instructional settings|
 
 
 ### 1630 - Conference Close
