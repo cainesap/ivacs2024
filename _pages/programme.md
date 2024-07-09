@@ -121,7 +121,7 @@ Couples and Friends. London: Routledge.
 Haugh, M and Sinkeviciute, V. 2021. ‘The pragmatics of initial interactions: Cross-cultural and
 intercultural perspectives.’ Journal of Pragmatics, 185, 35-39.
 
-_Chair_: TBC
+_Chair_: Prof Michael McCarthy
 
 
 ### 1030 - Break, Foyer
