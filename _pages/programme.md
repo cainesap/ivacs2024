@@ -62,7 +62,7 @@ Please go to the Porters' Lodge on Grange Road, CB3 9AN. Telephone: +44 (0)1223 
 
 A 90-minute guided walking tour of Cambridge city centre.
 Sign up on the [Registration page](../registration).
-Meeting place TBC.
+Meeting place: corner of Quayside and Bridge Street (near Prezzo & Scudamore's Punt Station).
 
 
 ## Day 1 schedule: Tuesday 16th July
