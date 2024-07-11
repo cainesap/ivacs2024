@@ -234,7 +234,7 @@ _Chair_: Andrew Caines
 |*|**Yixing Liu** : China's Media Representations of Vegetarianism: A Corpus-Assisted Discourse Analysis|
 |*|**Ridha Rashed Alanazi** : Exploring The Use of Formulaic Language in English Learning: A Corpus-Based Study of Arabic Students at a Saudi University|
 |*|**Charles Lam** : Sub-disciplinary Variations in Biology Texts and Implications on Instructions|
-|*|**Jing Huang** : Cooperative mediation of love and relationship on social media in China: A corpus-assisted discourse analysis of comments and danmu on video-sharing platform Bilibili|
+|*|**Jing Huang, Tanjun Liu** : Digital mediation of romantic relationships in China: Scholarly educational videos’ comments on Bilibili|
 |*|**Qianhui Sun** : Hands-off data-driven learning for Chinese students of English at the basic-independent levels|
 |*|**Agustina Lestary** : A Corpus-Based Analysis of Teachers’ Questions in an EFL (English as Foreign Language) Classroom in Higher Education Context in Indonesia|
 |*|**Tanjun Liu** : Investigating formulaic sequences in university students’ disciplinary writing|
@@ -488,7 +488,7 @@ Sign up on the [Registration page](../registration).
 * 89, **Adina Ioana Vladu, Claudio Rodríguez Fer** : Unraveling the Linguistic Tapestry: A Computational Exploration of José Ángel Valente's Poetry
 * 90, **Reem F. Alfuraih** : Competence and Creativity Indicators: A Taxonomy of Translation Positive Practices in The Undergraduate Learner Translator Corpus
 * 91, **Ana Eugenia Sancho Ortiz** : Methodological challenges in working with digitally mediated data: The compilation of the SciDis database
-* 92, **Jing Huang** : Cooperative mediation of love and relationship on social media in China: A corpus-assisted discourse analysis of comments and danmu on video-sharing platform Bilibili
+* 92, **Jing Huang, Tanjun Liu** : Digital mediation of romantic relationships in China: Scholarly educational videos’ comments on Bilibili
 * 93, **Reka R. Jablonkai, Gail Forey** : Corpus-based analysis of high-stake exam papers for materials design for disciplinary literacy development
 * 98, **Maicol Formentelli, Liviana Galiano, Maria Pavesi, Raffaele Zago** : Complexity matters in film and TV dialogue as input for informal L2 English learning: A corpus-based description
 * 100, **Cathryn Bennett** : Employing learner needs in corpus literacy teacher education (CLTE) programmes
