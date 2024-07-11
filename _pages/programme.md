@@ -291,14 +291,14 @@ writing, spanning 143 different first languages backgrounds, six proficiency lev
 
 † [LINDSEI](https://uclouvain.be/en/research-institutes/ilc/cecl/lindsei.html) (Louvain International Database of Spoken English Interlanguage); [LOCNEC](https://corpora.uclouvain.be/catalog/corpus/locnec) (Louvain Corpus of Native English Conversation)
 
-_Chair_: TBC
+_Chair_: Prof Paula Buttery
 
 
 ### 1030 - Break, Foyer
 
 ### 1045 - Talks 4
 
-|Plenary room|_Chair: Paula Buttery_|
+|Plenary room|_Chair: Andrew Caines_|
 |---|---|
 |1045|**Elizabeth Hanks, Tony McEnery, Jesse Egbert, Tove Larsson, Douglas Biber, Randi Reppen, Paul Baker, Raffaella Bottini, Vaclav Brezina, Gavin Brookes, Isobelle Clarke** : The Lancaster-Northern Arizona Corpus of Spoken American English (LANA-CASE): Design, compilation, and ongoing progress|
 |1105|**David Oakey, Franco Zappettini, Ziwei Guo** : Corpus creation with and without keywords – does achieving corpus “aboutness” introduce bias?|
