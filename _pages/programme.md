@@ -207,8 +207,8 @@ _Chair_: Prof Michael McCarthy
 |Syndicate 3|_Chair: Diana Galvan-Sosa_|
 |---|---|
 |1400|**Cathryn Bennett** : Employing learner needs in corpus literacy teacher education (CLTE) programmes|
-|1420|**Tanjun Liu** : Investigating formulaic sequences in university students’ disciplinary writing|
-|1440|**Sepideh Daghbandan** : Conversational Language Forms used by Learners of Persian: Insights from a Learner Corpus-based Study|
+|1420|**Sepideh Daghbandan** : Conversational Language Forms used by Learners of Persian: Insights from a Learner Corpus-based Study|
+|1440||
 
 
 ### 1500 - Break, Foyer
@@ -237,6 +237,7 @@ _Chair_: Andrew Caines
 |*|**Jing Huang** : Cooperative mediation of love and relationship on social media in China: A corpus-assisted discourse analysis of comments and danmu on video-sharing platform Bilibili|
 |*|**Qianhui Sun** : Hands-off data-driven learning for Chinese students of English at the basic-independent levels|
 |*|**Agustina Lestary** : A Corpus-Based Analysis of Teachers’ Questions in an EFL (English as Foreign Language) Classroom in Higher Education Context in Indonesia|
+|*|**Tanjun Liu** : Investigating formulaic sequences in university students’ disciplinary writing|
 
 
 ### 1830 - Conference Dinner
