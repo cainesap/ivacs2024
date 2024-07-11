@@ -208,7 +208,7 @@ _Chair_: Prof Michael McCarthy
 |---|---|
 |1400|**Cathryn Bennett** : Employing learner needs in corpus literacy teacher education (CLTE) programmes|
 |1420|**Sepideh Daghbandan** : Conversational Language Forms used by Learners of Persian: Insights from a Learner Corpus-based Study|
-|1440||
+|1440|**HE Liang** : Researching Poverty-themed Children’s Picture Books in the Contemporary United States: An Approach of Multimodal Discourse Analysis|
 
 
 ### 1500 - Break, Foyer
@@ -226,7 +226,6 @@ _Chair_: Andrew Caines
 
 |Plenary room|_Chairs: Diana Galvan-Sosa, Yuan Gao, Gabrielle Gaudeau_|
 |---|---|
-|*|**HE Liang** : Researching Poverty-themed Children’s Picture Books in the Contemporary United States: An Approach of Multimodal Discourse Analysis|
 |*|**Yueming Du, Shue Sum Leung** : Do features of lexical richness distinguish and predict Chinese-as-a-Second-Language writing quality?|
 |*|**Luís Martínez-Kleiser Magaña** : Online dissemination of scientific content for educational purposes: recontextualising texts for teenage audiences|
 |*|**Nazym Shaikhina** : Shaping Perspectives: Unraveling Gender Narratives in Kazakhstani Education through the Lens of "Ozin-ozi tanu" Textbooks|
