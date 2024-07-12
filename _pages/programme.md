@@ -146,7 +146,7 @@ _Chair_: Prof Michael McCarthy
 |1105|**Rachele De Felice, Kate Warwick** : A new dataset for email research and professional communication: Fauci2020|
 |1125|**Mateus De Souza, Michael McCarthy** : Exploring response tokens across proficiency levels: a spoken learner corpus study|
 
-|Syndicate 3|_Chair: Pascual Pérez-Paredes_|
+|Syndicate 3|_Chair: Cathryn Bennett_|
 |---|---|
 |1045|**Christoph Rühlemann** : Does gesture expressivity contribute to emotional resonance in storytelling interaction?|
 |1105| **Liina Repo** : Investigating Document Internal Variation: Modeling Historical Registers and Assessing the Impact of Text Segments on Register Classification|
@@ -355,7 +355,7 @@ _Chair_: Prof Paula Buttery
 
 ### 1400 - Talks 6
 
-|Plenary room|_Chair: Christopher Fitzgerald_|
+|Plenary room|_Chair: Cathryn Bennett_|
 |---|---|
 |1400|**Diane Nicholls, Andrew Caines, Paula Buttery** : The Write & Improve Corpus 2024|
 |1420|**Saara Hellström** : Comparing French and Swedish web registers using multilingual word vectors|
@@ -384,7 +384,7 @@ _Chair_: Prof Paula Buttery
 
 ### 1530 - Talks 7
 
-|Plenary room|_Chair: Pascual Pérez-Paredes_|
+|Plenary room|_Chair: Christopher Fitzgerald_|
 |---|---|
 |1530|**Elaine Vaughan, Brian Clancy** : Eat, pay, love: A corpus perspective on the language of first dates|
 |1550|**Nina Haket, Ryan Daniels** : Why Making Words Better Is Not That Simple: Conceptual Engineering and Distributional Semantics|
