@@ -161,7 +161,7 @@ _Chair_: Prof Michael McCarthy
 |---|---|
 |1200|**Carolina Amador-Moreno, Ana María Terrazas-Calero** : Framing lithium to attract stakeholders: using CL to investigate language and Ecology|
 |1220|**Robbie Love, Nele Põldvere** : Variation across spoken genres: comparing the Spoken British National Corpus 2014 and the London-Lund Corpus 2|
-|1240|**Pascual Pérez-Paredes** : The power of stories: multilingual corpora and critical discourse analysis <span style="color:red">CANCELLED)</span>|
+|1240|**Pascual Pérez-Paredes** : The power of stories: multilingual corpora and critical discourse analysis <span style="color:red">CANCELLED</span>|
 
 |Syndicate 1|_Chair: Gabrielle Gaudeau_|
 |---|---|
