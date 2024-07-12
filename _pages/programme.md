@@ -144,7 +144,7 @@ _Chair_: Prof Michael McCarthy
 |---|---|
 |1045|**Valentin Werner, Robert Fuchs, Anna Rosen, Lea Bracke, Bethany Stoddard** : Introducing the Corpus of Young German Learner English|
 |1105|**Rachele De Felice, Kate Warwick** : A new dataset for email research and professional communication: Fauci2020|
-|1125|**Mateus De Souza, Michael McCarthy** : Exploring response tokens across proficiency levels: a spoken learner corpus study|
+|1125|**Mateus Miranda, Michael McCarthy** : Exploring response tokens across proficiency levels: a spoken learner corpus study|
 
 |Syndicate 3|_Chair: Cathryn Bennett_|
 |---|---|
@@ -186,7 +186,7 @@ _Chair_: Prof Michael McCarthy
 
 ### 1400 - Talks 3
 
-|Plenary room|_Chair: Mateus De Souza_|
+|Plenary room|_Chair: Mateus Miranda_|
 |---|---|
 |1400|**Dawn Knight, Paul Rayson, Mo El-Haj, Nouran Khallaf, Ignatius Ezeani, Steve Morris** : FreeTxt: a corpus-based approach to bilingual free-text survey and questionnaire data analysis|
 |1420|**Christopher Fitzgerald, Justin McNamara, Anne O'Keeffe, Dawn Knight, Geraldine Mark, Sandrine Peraldi, Tania Fahey Palma, Fiona Farr, Ben Cowan, Svenja Adolphs** : Interactional Variation Online: Building and Analysing a Corpus of Virtual Workplace Meetings|
@@ -390,7 +390,7 @@ _Chair_: Prof Paula Buttery
 |1550|**Nina Haket, Ryan Daniels** : Why Making Words Better Is Not That Simple: Conceptual Engineering and Distributional Semantics|
 |1610|**Isolde van Dorst, Mathew Gillings, Jonathan Culpeper** : Impoliteness variation in Britain: a corpus-based study|
 
-|Syndicate 1|_Chair: Mateus De Souza_|
+|Syndicate 1|_Chair: Mateus Miranda_|
 |---|---|
 |1530|**Meiqi Li, Ting Jiang** : A Corpus-assisted Discourse Study of Disputants’ Intentionality in Chinese Family Mediation|
 |1550|**Liying Zhou** : Comparing functional discourse units in Chinese and English conversational discourse: a cross-linguistic and corpus-based analysis|
@@ -494,7 +494,7 @@ Sign up on the [Registration page](../registration).
 * 101, **Eniko Csomay** : Teaching styles and the 'mixed' category
 * 102, **Noelia Ramon, Belén Labrador** : Medals and awards:  Providing quality assurance in online promotional discourse
 * 104, **Cathryn Bennett, Ciara Wigham** : “Can I ask you just to clarify for a minute?”: Teaching pragmatics in IVE pre-service teacher training
-* 106, **Mateus De Souza, Michael McCarthy** : Exploring response tokens across proficiency levels: a spoken learner corpus study
+* 106, **Mateus Miranda, Michael McCarthy** : Exploring response tokens across proficiency levels: a spoken learner corpus study
 * 107, **Richard Badger** : Following the science: a study of the  Downing street Covid-19 press conferences
 * 110, **Qianhui Sun** : Hands-off data-driven learning for Chinese students of English at the basic-independent levels
 * 111, **Diane Nicholls, Andrew Caines, Paula Buttery** : The Write & Improve Corpus 2024
