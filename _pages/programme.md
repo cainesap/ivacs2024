@@ -143,14 +143,14 @@ _Chair_: Prof Michael McCarthy
 |Syndicate 2|_Chair: Chris Fitzgerald_|
 |---|---|
 |1045|**Valentin Werner, Robert Fuchs, Anna Rosen, Lea Bracke, Bethany Stoddard** : Introducing the Corpus of Young German Learner English|
-|1105|**Rachele De Felice, Kate Warwick** : A new dataset for email research and professional communication: Fauci2020|
+|1105|**Rachele De Felice, Kate Warwick** : A new dataset for email research and professional communication: Fauci2020 <span style="color:red">CANCELLED</span>|
 |1125|**Mateus Miranda, Michael McCarthy** : Exploring response tokens across proficiency levels: a spoken learner corpus study|
 
 |Syndicate 3|_Chair: Cathryn Bennett_|
 |---|---|
 |1045|**Christoph Rühlemann** : Does gesture expressivity contribute to emotional resonance in storytelling interaction?|
 |1105| **Liina Repo** : Investigating Document Internal Variation: Modeling Historical Registers and Assessing the Impact of Text Segments on Register Classification|
-|1125|**Lilia Shevyrdyaeva** : Academic tribes and discursive identity: metadiscourse patterns in research articles in closely related life sciences|
+|1125|**Lilia Shevyrdyaeva** : Academic tribes and discursive identity: metadiscourse patterns in research articles in closely related life sciences <span style="color:red">CANCELLED</span>|
 
 
 ### 1145 - Break, Foyer
@@ -375,7 +375,7 @@ _Chair_: Prof Paula Buttery
 
 |Syndicate 3|_Chair: Yuan Gao_|
 |---|---|
-|1400|**Artur Tsymbalyuk, Lilia Shevyrdyaeva** : We used vs. We demonstrate: a diachronic comparison of self-mention in high-stakes research articles in life sciences|
+|1400|**Artur Tsymbalyuk, Lilia Shevyrdyaeva** : We used vs. We demonstrate: a diachronic comparison of self-mention in high-stakes research articles in life sciences <span style="color:red">CANCELLED</span>|
 |1420|**Reem F. Alfuraih** : Competence and Creativity Indicators: A Taxonomy of Translation Positive Practices in The Undergraduate Learner Translator Corpus|
 |1440|**Michael T. L. Pace-Sigge** : Presence and Absence of Laughter and Gestures. Examples from the BNC-Spoken 2014 and Dickens' Novels|
 
