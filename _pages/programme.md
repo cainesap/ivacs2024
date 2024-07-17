@@ -373,7 +373,7 @@ _Chair_: Prof Paula Buttery
 |1420|**Joan O'Sullivan, Tamami Shimada** : Introducing the Corpus of New Speakers of Irish English|
 |1440|**Anastasia Shavrina, Anastasia Vyrenkova, Sergei Obiedkov, Anastasia Chivikova** : Crowdsourcing for Error Correction in L2 Writing|
 
-|Syndicate 3|_Chair: Yuan Gao_|
+|Syndicate 3|_Chair: Aisling O'Boyle_|
 |---|---|
 |1400|**Artur Tsymbalyuk, Lilia Shevyrdyaeva** : We used vs. We demonstrate: a diachronic comparison of self-mention in high-stakes research articles in life sciences <span style="color:red">CANCELLED</span>|
 |1420|**Reem F. Alfuraih** : Competence and Creativity Indicators: A Taxonomy of Translation Positive Practices in The Undergraduate Learner Translator Corpus|
