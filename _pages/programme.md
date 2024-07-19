@@ -9,6 +9,8 @@ sidebar:
     nav: programme
 ---
 
+[Download the Book of Abstracts here](./IVACS2024_bookOfAbstracts.pdf)
+
 ## Overview
 
 All times are BST (UTC+1).
