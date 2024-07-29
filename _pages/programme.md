@@ -169,7 +169,7 @@ _Chair_: Prof Michael McCarthy
 |---|---|
 |1200|**Catherine Wong** : Sherlock Holmes in the Computer: Quantitative Stylistic Methods|
 |1220|**Virginia Mattioli** : Crossing Translation Universals research and Language Variety studies: explicitation of the optional conjunction “that” in British and American translated novels|
-|1240|**Adina Ioana Vladu, Claudio Rodríguez Fer** : Unraveling the Linguistic Tapestry: A Computational Exploration of José Ángel Valente's Poetry|
+|1240|**Adina Ioana Vladu, Claudio Rodríguez Fernandez** : Unraveling the Linguistic Tapestry: A Computational Exploration of José Ángel Valente's Poetry|
 
 |Syndicate 2|_Chair: Yuan Gao_|
 |---|---|
