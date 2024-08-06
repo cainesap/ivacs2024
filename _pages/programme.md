@@ -390,7 +390,7 @@ _Chair_: Prof Paula Buttery
 |---|---|
 |1530|**Elaine Vaughan, Brian Clancy** : Eat, pay, love: A corpus perspective on the language of first dates|
 |1550|**Nina Haket, Ryan Daniels** : Why Making Words Better Is Not That Simple: Conceptual Engineering and Distributional Semantics|
-|1610|**Isolde van Dorst, Mathew Gillings, Jonathan Culpeper** : Impoliteness variation in Britain: a corpus-based study|
+|1610|**Isolde van Dorst, Mathew Gillings, Jonathan Culpeper** : A corpus-based exploration of impoliteness formulae: Methodological challenges|
 
 |Syndicate 1|_Chair: Mateus Miranda_|
 |---|---|
@@ -466,7 +466,7 @@ Sign up on the [Registration page](../registration).
 * 58, **Paul Thomas Johnson** : A New Kind of Graded Reader: The Digital Roleplaying Game
 * 59, **Wenxuan Ren** : An UFA-approach to diachronic investigation into the identity construction of vegetarian in China Daily
 * 60, **Graham Burton, Maria Cristina Gatti** : The word list repository: creating an open resource for researchers and teachers
-* 62, **Isolde van Dorst, Mathew Gillings, Jonathan Culpeper** : Impoliteness variation in Britain: a corpus-based study
+* 62, **Isolde van Dorst, Mathew Gillings, Jonathan Culpeper** : A corpus-based exploration of impoliteness formulae: Methodological challenges
 * 64, **Pascual Pérez-Paredes** : The power of stories: multilingual corpora and critical discourse analysis
 * 65, **Charles Lam** : Sub-disciplinary Variations in Biology Texts and Implications on Instructions
 * 66, **Virginia Mattioli** : Crossing Translation Universals research and Language Variety studies: explicitation of the optional conjunction “that” in British and American translated novels
